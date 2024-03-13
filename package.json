@@ -1,0 +1,17 @@
+{
+  "name": "tepro",
+  "version": "1.0.0",
+  "description": "demo project for unit test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
